@@ -8,8 +8,6 @@ A digital logic fire alarm system designed and verified using **SystemVerilog**,
 
 ---
 
-## 👥 Team Members
-
 | Name | USN |
 |---|---|
 | MOHAMMED ARSH IRSHAD | NNM23EC096 |
