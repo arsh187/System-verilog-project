@@ -1,0 +1,32 @@
+# Vivado generated files
+*.jou
+*.log
+*.str
+*.pb
+.Xil/
+vivado_pid*.str
+
+# Vivado project files (optional - remove this line if you want to include .xpr)
+*.xpr
+*.xsa
+
+# Vivado generated output files
+*/impl_1/
+*/synth_1/
+*/.cache/
+*/ip/
+
+# ModelSim
+work/
+transcript
+vsim.wlf
+*.vcd
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+.vscode/
