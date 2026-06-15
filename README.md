@@ -5,8 +5,6 @@ A digital logic fire alarm system designed and verified using **SystemVerilog**,
 > **Institution:** NMAM Institute of Technology, Nitte (NITTE Deemed to be University)  
 > **Department:** Electronics & Communication Engineering  
 > **Academic Year:** 2024–2025
-
----
 | Name | USN |
 |---|---|
 | MOHAMMED ARSH IRSHAD | NNM23EC096 |
